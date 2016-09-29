@@ -1,6 +1,6 @@
 ---
 title: 'Spatial considerations in the analysis of conservation data: evaluating the presence  of \textit{Acer campestre} (field maple) – space is special'
-author: "Alexis Comber^1^, Steve Carver^1^, Paul Harris^2^, Duccio Rocchini^3^"
+author: "Alexis Comber^1^, Steve Carver^1^, Paul Harris^2^, Carol Ximena Garzon-Lopez^3^, Duccio Rocchini^3^"
 output: pdf_document
 geometry: margin=3cm
 ---
