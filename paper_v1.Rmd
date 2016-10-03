@@ -65,7 +65,22 @@ The paper tests the model suggested by Coudun et al (2006) but does this using a
 
 ## 2.2 Review of spatial methods in ecology and conservation 
 \textbf{TBC - Duccio?}
+Understanding species distribution is a key concept in ecological research, in particular when dealing with biodiversity monitoring for conservation practices. Several papers have dealt with the importance of explicitly taking space into account when trying to model the distribution of a certain species, and, overall, its change in space and time.
+The description of the distribution of biodiversity at different spatial and temporal scales
+has long been the focus of ecology and biogeography. Reliable descriptions of species distributions
+are fundamental for conservation and research purposes (Dormann, 2007). A number of statistical problems must be solved before spatial models can be built such as: the uncertainty related to the sampling of the modelled species (Rocchini et al., 2011), the correlation among predictors (Dormann et al....), the potential variability over space of the predictors being used (Rocchin et al., 2016, CAGEO), the spatio-temporal dependency of the predictors (Zuur and Ieno, 2016). 
+Among these, spatial non stationairty and scale dependence ar expected to impact most of the ecological processes and relative patterns such as the distribution of biodiversity over space (Foody, 2004). 
+In general , spatial ecological models assume stationarity of predictor variables....... 
+...........
+how non stationarity might affect results
+...........
 
+Foody, G.M. (2004) Spatial non-stationarity and scale dependency
+in the relationship between species richness and environmental
+determinants for the sub-Saharan endemic avifauna. Global
+Ecology and Biogeography, 13, 315–320.
+
+I will add refs.........
 
 # 3. Methods
 
