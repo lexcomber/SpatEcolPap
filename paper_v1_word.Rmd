@@ -1,7 +1,7 @@
 ---
 title: 'Spatial considerations in the analysis of conservation data: evaluating the presence  of \textit{Acer campestre} (field maple) – space is special'
-author: "Alexis Comber^1^, Steve Carver^1^, Carol Ximena Garzon-Lopez^2, Paul Harris^3^, Duccio Rocchini^2^"
-output: pdf_document
+author: "Alexis Comber^1^, Steve Carver^1^, Paul Harris^2^, Carol Ximena Garzon-Lopez^3^, Duccio Rocchini^3^"
+output: word_document
 geometry: margin=3cm
 ---
 
@@ -9,13 +9,14 @@ geometry: margin=3cm
 
 Email: {a.comber; s.j.carver} @leeds.ac.uk 
 
-^2^ Fondazione Edmund Mach, 38010 S. Michele all'Adige, Italy 
+^2^ Rothamsted Research, North Wyke, EX20 2SB, UK
+
+Email: paul.harris@rothamsted.ac.uk
+
+^3^ Fondazione Edmund Mach, 38010 S. Michele all'Adige, Italy 
 
 Email: duccio.rocchini@fmach.it
 
-^3^ Rothamsted Research, North Wyke, EX20 2SB, UK
-
-Email: paul.harris@rothamsted.ac.uk
 
 
 ```{r functions, include=FALSE}
@@ -416,6 +417,7 @@ tab3 <- tab3[c(4,1:3,5:7),]
 library(knitr)
 kable(tab3, booktabs = T, format = 'markdown') 
 ```
+
 
 ```{r, fig.width=9, echo = F, eval=T, cache = T,  message=F, warning=F, fig.cap=fig$cap("", "The spatial distribution of the local CNs and the Mean annual PET and Mean Wilderness Quality VIFs.")}
 
