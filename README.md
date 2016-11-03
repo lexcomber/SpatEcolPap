@@ -3,12 +3,12 @@ The code and PDF of the paper submitted to Applied Geography expanding on the wo
 
 *Spatial considerations in the analysis of biological conservation data: space is special*
 
-Alexis Comber 1, Steve Carver 1, Carol Ximena Garzon-Lopez 2, Paul Harris 3, Duccio Rocchini 4
+Alexis Comber(1), Steve Carver(1), Carol Ximena Garzon-Lopez(2), Paul Harris(3), Duccio Rocchini(4)
 
 1 School of Geography, University of Leeds, Leeds, LS2 9JT, UK
 Email: {a.comber; s.j.carver} @leeds.ac.uk 
 
-2Ecology and Dynamics of Human-influenced Systems Research Unit, University of Picardie Jules Verne, FR-80037 Amiens, France.
+2 Ecology and Dynamics of Human-influenced Systems Research Unit, University of Picardie Jules Verne, FR-80037 Amiens, France.
 Email: c.x.garzon@gmail.com 
 
 3 Rothamsted Research, North Wyke, EX20 2SB, UK
