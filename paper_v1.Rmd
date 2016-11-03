@@ -82,7 +82,12 @@ library(knitr)
 # Part 1. load and prepare the data
 
 # 1.1 load prepared data files
-#source_data("https://github.com/lexcomber/SpEcolCons2016/blob/master/SpEcolCons.RData?raw=True")
+
+#### **** You can download the data from the Github site *****
+#### **** And then run source_data as below *****
+# source_data("https://github.com/lexcomber/SpEcolCons2016/blob/master/SpEcolCons.RData?raw=True")
+
+#### ***** OR load the data from a local file *****
 load('~/Desktop/my_docs_mac/leeds_work/research/conservation/anal/SpEcolCons.RData')
 
 # Acknowldgements Rainfall
@@ -95,7 +100,7 @@ load('~/Desktop/my_docs_mac/leeds_work/research/conservation/anal/SpEcolCons.RDa
 # clip PET to OS
 
 # Acknowledgement Wildness Quality Index
-# Kuiters, A. T., van Eupen, M., Carver, S., Fisher, M., Kun, Z., & Vancura, V. (2011). Wilderness register and indicator for Europe. Final Report - http://ec.europa.eu/environment/nature/natura2000/wilderness/pdf/Wilderness_register_indicator.pdf   
+# Kuiters, A. T., van Eupen, M., Carver, S., Fisher, M., Kun, Z., & Vancura, V. (2013). Wilderness register and indicator for Europe. Final Report - http://ec.europa.eu/environment/nature/natura2000/wilderness/pdf/Wilderness_register_indicator.pdf   
 
 # 1.2 interpolate the over OS 10k grid
 # wqi at 1k 
